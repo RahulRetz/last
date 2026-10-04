@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 20517a8101981624aab38a08541ed4fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5356915236107196199
+    second: Sprite_INKY_idle_0
+  - first:
+      213: -5573466959909153215
+    second: Sprite_INKY_idle_1
+  - first:
+      213: -3708082103537870910
+    second: Sprite_INKY_idle_2
+  - first:
+      213: 2894877221003281013
+    second: Sprite_INKY_idle_3
+  - first:
+      213: -7621917138447498483
+    second: Sprite_INKY_idle_4
+  - first:
+      213: -972177106419618760
+    second: Sprite_INKY_idle_5
+  - first:
+      213: -1743759669774630739
+    second: Sprite_INKY_idle_6
+  - first:
+      213: -2298210308463163299
+    second: Sprite_INKY_idle_7
+  - first:
+      213: 436304146027708948
+    second: Sprite_INKY_idle_8
+  - first:
+      213: 7998629257507424750
+    second: Sprite_INKY_idle_9
+  - first:
+      213: 6244814364435393239
+    second: Sprite_INKY_idle_10
+  - first:
+      213: -566626662566253159
+    second: Sprite_INKY_idle_11
+  - first:
+      213: 7668236679397418206
+    second: Sprite_INKY_idle_12
+  - first:
+      213: 9055351833143371213
+    second: Sprite_INKY_idle_13
+  - first:
+      213: -618991155647215895
+    second: Sprite_INKY_idle_14
+  - first:
+      213: 8033631347917626293
+    second: Sprite_INKY_idle_15
+  - first:
+      213: -2993992913786002488
+    second: Sprite_INKY_idle_16
+  - first:
+      213: -4398241759428370171
+    second: Sprite_INKY_idle_17
+  - first:
+      213: -2056110228646576155
+    second: Sprite_INKY_idle_18
+  - first:
+      213: 1496043763573403343
+    second: Sprite_INKY_idle_19
+  - first:
+      213: -9009035840351634288
+    second: Sprite_INKY_idle_20
+  - first:
+      213: 6168141465514969420
+    second: Sprite_INKY_idle_21
+  - first:
+      213: -1879693418593905642
+    second: Sprite_INKY_idle_22
+  - first:
+      213: -1553990669947360419
+    second: Sprite_INKY_idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e3f399f968a5b0800000000000000
+      internalID: -5356915236107196199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1461d37545117a2b0800000000000000
+      internalID: -5573466959909153215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c754ac19fe3a8cc0800000000000000
+      internalID: -3708082103537870910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 61
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572454aae7bac2820800000000000000
+      internalID: 2894877221003281013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 61
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d030067ceb2893690800000000000000
+      internalID: -7621917138447498483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 61
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c671192122282f0800000000000000
+      internalID: -972177106419618760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 61
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04e65b1dbecc7e0800000000000000
+      internalID: -1743759669774630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 61
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5889e0a6ed1b10e0800000000000000
+      internalID: -2298210308463163299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 61
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41203062f401e0600800000000000000
+      internalID: 436304146027708948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_9
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c6cf5ee6d00f60800000000000000
+      internalID: 7998629257507424750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_10
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daad68f3990aa650800000000000000
+      internalID: 6244814364435393239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_11
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d29717d00f228f0800000000000000
+      internalID: -566626662566253159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_12
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4aa11c1ac0b6a60800000000000000
+      internalID: 7668236679397418206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_13
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc561b2d3821bad70800000000000000
+      internalID: 9055351833143371213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_14
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 61
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e60a80d2d6e867f0800000000000000
+      internalID: -618991155647215895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_15
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 61
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb921d95213d7f60800000000000000
+      internalID: 8033631347917626293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_16
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 61
+        width: 179
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3afb9ce433376d0800000000000000
+      internalID: -2993992913786002488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_17
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 61
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501abf43c6e46f2c0800000000000000
+      internalID: -4398241759428370171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_18
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 61
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef397a04aa3773e0800000000000000
+      internalID: -2056110228646576155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_19
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 61
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2b3860e303c410800000000000000
+      internalID: 1496043763573403343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_20
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 61
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf31792a979f280800000000000000
+      internalID: -9009035840351634288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_21
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4980609bf3a99550800000000000000
+      internalID: 6168141465514969420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_22
+      rect:
+        serializedVersion: 2
+        x: 5549
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614121a7bccf9e5e0800000000000000
+      internalID: -1879693418593905642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_idle_23
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b248518bd1f6ae0800000000000000
+      internalID: -1553990669947360419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_INKY_idle_0: -5356915236107196199
+      Sprite_INKY_idle_1: -5573466959909153215
+      Sprite_INKY_idle_10: 6244814364435393239
+      Sprite_INKY_idle_11: -566626662566253159
+      Sprite_INKY_idle_12: 7668236679397418206
+      Sprite_INKY_idle_13: 9055351833143371213
+      Sprite_INKY_idle_14: -618991155647215895
+      Sprite_INKY_idle_15: 8033631347917626293
+      Sprite_INKY_idle_16: -2993992913786002488
+      Sprite_INKY_idle_17: -4398241759428370171
+      Sprite_INKY_idle_18: -2056110228646576155
+      Sprite_INKY_idle_19: 1496043763573403343
+      Sprite_INKY_idle_2: -3708082103537870910
+      Sprite_INKY_idle_20: -9009035840351634288
+      Sprite_INKY_idle_21: 6168141465514969420
+      Sprite_INKY_idle_22: -1879693418593905642
+      Sprite_INKY_idle_23: -1553990669947360419
+      Sprite_INKY_idle_3: 2894877221003281013
+      Sprite_INKY_idle_4: -7621917138447498483
+      Sprite_INKY_idle_5: -972177106419618760
+      Sprite_INKY_idle_6: -1743759669774630739
+      Sprite_INKY_idle_7: -2298210308463163299
+      Sprite_INKY_idle_8: 436304146027708948
+      Sprite_INKY_idle_9: 7998629257507424750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
