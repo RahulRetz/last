@@ -37075,8 +37075,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1873832879}
   - component: {fileID: 1873832878}
-  - component: {fileID: 1873832880}
-  - component: {fileID: 1873832881}
   m_Layer: 3
   m_Name: BG_MAP_0
   m_TagString: Untagged
@@ -37158,36 +37156,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1220973980}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1873832880
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1873832877}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2011c2e1fdd722e40a5894a72546ecd4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DynamicShaderController
-  sizePropertyName: WaterProgress
-  growthSpeed: 1.5
-  maxSize: 5
-  spriteRenderer: {fileID: 0}
-  sizePropertyID: 0
---- !u!114 &1873832881
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1873832877}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9542aa422270d04fab6d9d956d9a348, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::WaterController
-  targetRenderer: {fileID: 1873832878}
 --- !u!1 &1927380772
 GameObject:
   m_ObjectHideFlags: 0
