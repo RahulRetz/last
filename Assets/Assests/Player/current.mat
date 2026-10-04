@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1979419209331110468
+--- !u!114 &-6955107664646777029
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_checking
+  m_Name: current
   m_Shader: {fileID: -6465566751694194690, guid: 2223a89bd292c79458c9010b06119c28, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,11 +38,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: df8054c8048d27740a506af6781be3aa, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5e697cf048b45da47ac61c0c13b72b6d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _wekMask:
-        m_Texture: {fileID: 2800000, guid: c019c6a821729d1419d4a4cdbbdd4585, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5f0fc55d24fcb8d4398227c34d7d05c5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -59,13 +59,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DissolveEdge: 0.01
-    - _NoiseScale: 25
+    - _DissolveEdge: 0.197
+    - _NoiseScale: 27.05
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WaterProgress: 1
-    - _smudgedStrength: 0.3
-    - _water_level: 1.74
+    - _WaterProgress: 0.584
+    - _smudgedStrength: 45.57
+    - _water_level: 39.6
     m_Colors:
     - _wetTint: {r: 0.30588236, g: 0.41960776, b: 0.47843134, a: 1}
   m_BuildTextureStacks: []

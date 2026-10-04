@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     private InputAction moveAction;
     private InputAction jumpAction;
     private InputAction rightMouse;
+    public Animator playerAnimator;
 
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 8f;
@@ -73,6 +74,7 @@ public class PlayerController : MonoBehaviour
         sprite = transform.GetComponent<SpriteRenderer>();
         trialSlider.maxValue = 100f;
         isJumping = false;
+        playerAnimator = this.transform.GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -108,12 +110,17 @@ public class PlayerController : MonoBehaviour
 
         if(moveInput.x >= 1f)
         {
-        
+            playerAnimator.SetBool("walk" , true);
             transform.rotation = Quaternion.Euler(0f, 0f, 0f);
         }
         else if(moveInput.x <= -1f)
         {
+            playerAnimator.SetBool("walk" , true);
             transform.rotation = Quaternion.Euler(0f, 180f, 0f);
+        }
+        else
+        {
+            playerAnimator.SetBool("walk" , false);
         }
 
         if(canReduce){
@@ -177,6 +184,7 @@ public class PlayerController : MonoBehaviour
 
     private void ExecuteJump()
     {
+        // playerAnimator.SetBool("jump" , true);
         // Reset vertical velocity so jump height is consistent
         if(isJumping && jumpCount == 1)
         {

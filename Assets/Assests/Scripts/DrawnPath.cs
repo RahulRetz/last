@@ -26,7 +26,7 @@ public class DrawnPath : MonoBehaviour
 
     [Header("Timing")]
     [SerializeField] private float colliderActivationDelay = 0.5f;
-    [SerializeField] private float totalLifetime = 6.0f;
+    [SerializeField] private float totalLifetime = 3.0f;
 
     public PhysicsMaterial2D friction;
     private LineRenderer lineRenderer;

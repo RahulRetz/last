@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 5e697cf048b45da47ac61c0c13b72b6d
+guid: 3ec756e21f8a73542a8e50971ffb25c1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -247058054503370390
-    second: foreground_0
+      213: -6732294965104032732
+    second: fall_0
   - first:
-      213: -8560154073889714485
-    second: foreground_1
+      213: -8269792095265539674
+    second: fall_1
   - first:
-      213: 7369810071322001645
-    second: foreground_2
+      213: -2808048858112833009
+    second: fall_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,9 +52,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -119,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: foreground_0
+      name: fall_0
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 3029
-        width: 1485
-        height: 1523
+        x: 20
+        y: 50
+        width: 202
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a617d662206429cf0800000000000000
-      internalID: -247058054503370390
+      spriteID: 424c2d106651292a0800000000000000
+      internalID: -6732294965104032732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: foreground_1
+      name: fall_1
       rect:
         serializedVersion: 2
-        x: 2291
-        y: 0
-        width: 6216
-        height: 6428
+        x: 305
+        y: 50
+        width: 202
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcec0333939343980800000000000000
-      internalID: -8560154073889714485
+      spriteID: 6a93d5397ebcb3d80800000000000000
+      internalID: -8269792095265539674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: foreground_2
+      name: fall_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 81
-        width: 3155
-        height: 1123
+        x: 587
+        y: 50
+        width: 202
+        height: 130
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de08e338633d64660800000000000000
-      internalID: 7369810071322001645
+      spriteID: f0a4e34f07ec709d0800000000000000
+      internalID: -2808048858112833009
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      foreground_0: -247058054503370390
-      foreground_1: -8560154073889714485
-      foreground_2: 7369810071322001645
+      fall_0: -6732294965104032732
+      fall_1: -8269792095265539674
+      fall_2: -2808048858112833009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

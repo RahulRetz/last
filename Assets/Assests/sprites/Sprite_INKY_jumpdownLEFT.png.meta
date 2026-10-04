@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 5e697cf048b45da47ac61c0c13b72b6d
+guid: ba6fba6f78fa813429a2c71c123b8cec
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -247058054503370390
-    second: foreground_0
+      213: 2811749908933900854
+    second: Sprite_INKY_jumpdownLEFT_0
   - first:
-      213: -8560154073889714485
-    second: foreground_1
+      213: -2831198136204450434
+    second: Sprite_INKY_jumpdownLEFT_1
   - first:
-      213: 7369810071322001645
-    second: foreground_2
+      213: -8067220304245231395
+    second: Sprite_INKY_jumpdownLEFT_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,9 +52,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -119,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: foreground_0
+      name: Sprite_INKY_jumpdownLEFT_0
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 3029
-        width: 1485
-        height: 1523
+        x: 14
+        y: 64
+        width: 220
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a617d662206429cf0800000000000000
-      internalID: -247058054503370390
+      spriteID: 63afd3715a7550720800000000000000
+      internalID: 2811749908933900854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: foreground_1
+      name: Sprite_INKY_jumpdownLEFT_1
       rect:
         serializedVersion: 2
-        x: 2291
-        y: 0
-        width: 6216
-        height: 6428
+        x: 296
+        y: 64
+        width: 220
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcec0333939343980800000000000000
-      internalID: -8560154073889714485
+      spriteID: e7529c2ab4095b8d0800000000000000
+      internalID: -2831198136204450434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: foreground_2
+      name: Sprite_INKY_jumpdownLEFT_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 81
-        width: 3155
-        height: 1123
+        x: 578
+        y: 64
+        width: 220
+        height: 123
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de08e338633d64660800000000000000
-      internalID: 7369810071322001645
+      spriteID: dd0f4a010e97b0090800000000000000
+      internalID: -8067220304245231395
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -198,9 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      foreground_0: -247058054503370390
-      foreground_1: -8560154073889714485
-      foreground_2: 7369810071322001645
+      Sprite_INKY_jumpdownLEFT_0: 2811749908933900854
+      Sprite_INKY_jumpdownLEFT_1: -2831198136204450434
+      Sprite_INKY_jumpdownLEFT_2: -8067220304245231395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

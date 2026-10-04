@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 80b0d4f5f90ac7d4f8e96dc31a3ac066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3041087087054588871
+    second: Sprite_INKY_startmoveright_0
+  - first:
+      213: -7463204136939058982
+    second: Sprite_INKY_startmoveright_1
+  - first:
+      213: 5121312816237304471
+    second: Sprite_INKY_startmoveright_2
+  - first:
+      213: -4747361865380207982
+    second: Sprite_INKY_startmoveright_3
+  - first:
+      213: -720585760091222564
+    second: Sprite_INKY_startmoveright_4
+  - first:
+      213: -2174680183253764695
+    second: Sprite_INKY_startmoveright_5
+  - first:
+      213: 1543337432075099596
+    second: Sprite_INKY_startmoveright_6
+  - first:
+      213: -2124122226917016578
+    second: Sprite_INKY_startmoveright_7
+  - first:
+      213: 5709655252025433395
+    second: Sprite_INKY_startmoveright_8
+  - first:
+      213: -3928470925818191867
+    second: Sprite_INKY_startmoveright_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934751d1863ebc5d0800000000000000
+      internalID: -3041087087054588871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 61
+        width: 186
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88583116f5d6890800000000000000
+      internalID: -7463204136939058982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 61
+        width: 186
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ada7b5fde821740800000000000000
+      internalID: 5121312816237304471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 61
+        width: 222
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292e6c9398bfd1eb0800000000000000
+      internalID: -4747361865380207982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 61
+        width: 222
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddce8ba117fff5f0800000000000000
+      internalID: -720585760091222564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 60
+        width: 225
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f31135ebf1d1e0800000000000000
+      internalID: -2174680183253764695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_6
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 60
+        width: 225
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd566fa7390b6510800000000000000
+      internalID: 1543337432075099596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_7
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 61
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7915b61a9582e0800000000000000
+      internalID: -2124122226917016578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_8
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 61
+        width: 196
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d5bee5335cc3f40800000000000000
+      internalID: 5709655252025433395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_INKY_startmoveright_9
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 61
+        width: 178
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5002824c1844b79c0800000000000000
+      internalID: -3928470925818191867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite_INKY_startmoveright_0: -3041087087054588871
+      Sprite_INKY_startmoveright_1: -7463204136939058982
+      Sprite_INKY_startmoveright_2: 5121312816237304471
+      Sprite_INKY_startmoveright_3: -4747361865380207982
+      Sprite_INKY_startmoveright_4: -720585760091222564
+      Sprite_INKY_startmoveright_5: -2174680183253764695
+      Sprite_INKY_startmoveright_6: 1543337432075099596
+      Sprite_INKY_startmoveright_7: -2124122226917016578
+      Sprite_INKY_startmoveright_8: 5709655252025433395
+      Sprite_INKY_startmoveright_9: -3928470925818191867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
